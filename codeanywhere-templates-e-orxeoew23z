@@ -1,0 +1,6 @@
+{
+  "name": "PureOS container",
+  "build": {
+    "dockerfile": "Dockerfile"
+  }
+}
